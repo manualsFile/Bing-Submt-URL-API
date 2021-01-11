@@ -1,4 +1,6 @@
 //Author: @manualsFile
+//Documents: https://docs.microsoft.com/en-us/dotnet/api/microsoft.bing.webmaster.api.interfaces.iwebmasterapi.submiturlbatch
+//For SEO Bing 
 var data = {
     'siteUrl' : 'https://mysite.com',
     'urlList' : [
